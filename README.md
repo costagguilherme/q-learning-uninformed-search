@@ -9,4 +9,4 @@
 * Somente rodar com "python water-jug.py"
 ### Black Jack
 * Necessário instalar as dependências com o pip (matplotlib, numpy, tqdm, gymnasium)
-* Caso queira renderizar interface, mudar a variável "renderizar" de False para True
+* Caso queira renderizar interface, mudar a variável "renderizar" de False para True, e vice-versa
